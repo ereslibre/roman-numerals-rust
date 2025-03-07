@@ -1,0 +1,7 @@
+[package]
+name = "roman-numerals"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+assert_no_alloc = "1.1.2"
